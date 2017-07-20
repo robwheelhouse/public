@@ -1,1 +1,1 @@
-# public
+Javascript implementation of W3C digitalData specification for marketing data
