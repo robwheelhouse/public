@@ -1,7 +1,3 @@
-//demo code, To be customized per implementation. This is what goes on the actualy page.
-//This data layer structure, elements, and functions serve only as an example implementation method.
-
-
 javascript: (function() {
 	window.digitalData = {};
 	window.digitalData.page = {};
